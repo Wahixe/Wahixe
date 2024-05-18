@@ -1,10 +1,9 @@
-Wahixe cfg // HVH WORLD v1.2 [ENG] by T4oq_pups
+Wahixe cfg // HVH WORLD v1.2 [RUS]  by T4oq_pups
 =======================
-Update Min damage +
-Update Hit chance + 
-New hitbox
-New aa (anti-aim)
-Quick peek assist : press ALT
-No fix crash rapid fire and Revoler R8 -
-CFG CODE (CFG ---> Import from clipboard) : 
+Обновление минимального урона +
+Обновлен шанс попадания +
+Новые хитбоксы
+Новый АА (Анти-Аим)
+Быстрый пик: нажмите ALT
+Нет исправления сбоя скоростного огня и Revoler R8 -
 

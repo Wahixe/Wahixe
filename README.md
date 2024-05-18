@@ -11,4 +11,5 @@ CFG CODE (CFG ---> Import from clipboard) :
 
 
 
-[message (10).txt](https://github.com/Wahixe/Wahixe/files/15359221/message.10.txt)
+
+[Wahixe cfg  HVH WORLD v1.2 by T4oq_pups.txt](https://github.com/Wahixe/Wahixe/files/15359228/Wahixe.cfg.HVH.WORLD.v1.2.by.T4oq_pups.txt)
